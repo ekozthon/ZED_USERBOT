@@ -1,4 +1,4 @@
-#ZedThon
+#DARKTHON
 
 import asyncio
 
@@ -17,7 +17,7 @@ async def _(event):
     if not input_str and not reply_message:
         await edit_delete(
             event,
-            "**⌔∮بالرد على الرسالة النصية للمستخدم للحصول على سجل الاسماء القديمه للمستخدم أو عرض سجل معرفات حساب المستخدم**",
+            "**⌔∮امر .الاسماء يطلعلك الاسماء القديمه للشخص**",
         )
     if input_str:
         try:
