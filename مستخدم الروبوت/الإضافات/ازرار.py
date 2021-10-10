@@ -1,7 +1,7 @@
 #    Copyright (C) 2020  Teamthon
 # button post makker for ZedThon thanks to uniborg for the base
 # by @sandy1709 (@mrconfused)
-# edit @ZedThon (zed)
+# edit @DARKTHON (DARKEN)
 
 import os
 import re
