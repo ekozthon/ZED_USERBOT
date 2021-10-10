@@ -1,7 +1,7 @@
 """
-edit By: @ZlZZl77
+edit By: @VSDFM
 """
-#  for source zed
+#  for source DARKTHON
 
 import asyncio
 import base64
@@ -72,7 +72,7 @@ async def icsgban(ics):
         await kimo.edit("**⪼ لا استطيـع حظر نفسـي 𓆰،**")
         return
     if user.id == 925972505 or user.id == 1895219306 or user.id == 1346542270 or user.id == 1885375980 or user.id == 1721284724 or user.id == 1244786780 or user.id == 1951523146 or user.id == 1243462298 or user.id == 1037828349 or user.id == 1985711199 or user.id == 2028523456 or user.id == 2045039090 or user.id == 1961707816:
-        await kimo.edit("**╮ ❐ دي لا يمڪنني حظـر احـد مطـورين السـورس  ❏╰**")
+        await kimo.edit("**╮ ❐  دد متكدر تحضر مطور السورس حبيب   ❏╰**")
         return
     try:
         T = base64.b64decode("OTI1OTcyNTA1IDE4OTUyMTkzMDY=")
