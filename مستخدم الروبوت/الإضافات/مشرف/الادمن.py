@@ -1,5 +1,5 @@
 #     Z - Userbot
-#     edit - @ZedThon
+#     edit - @riothon
 
 # ====================================================== #
 
@@ -86,7 +86,7 @@ async def set_group_photo(gpic):
     if not gpic.is_group:
         await eor(
             gpic,
-            "** ⪼ لا اعتقد ان ۿذه مجمـوعه 𓆰،**\n ⫷ [𝙎𝙊𝙐𝙍𝘾𝞝  𝙕𝞝𝘿𝙏𝙃𝙊𝙉 ](t.me/ZedThon) ⫸",
+            "** ⪼ لا اعتقد ان ۿذه مجمـوعه 𓆰،**\n ⫷ [𝙎𝙊𝙐𝙍𝘾𝞝  𝘋𝘈𝘙𝘒𝘛𝘏𝘖𝘕 ](t.me/riothon) ⫸",
         )
         return
     replymsg = await gpic.get_reply_message()
