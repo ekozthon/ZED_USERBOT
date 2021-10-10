@@ -1,4 +1,4 @@
-#ZedThon
+#DARKEN
 
 import random
 
