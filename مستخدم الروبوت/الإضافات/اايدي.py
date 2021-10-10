@@ -1,4 +1,4 @@
-# whois code for zed edit by ~ @ZedThon
+# whois code for  edit by ~ @VSDFM
 
 import os
 
@@ -8,7 +8,7 @@ from telethon.tl.types import MessageEntityMentionName
 from telethon.utils import get_input_location
 
 TMP_DOWNLOAD_DIRECTORY = Config.TMP_DOWNLOAD_DIRECTORY
-ZED_TEXT = Config.CUSTOM_ALIVE_TEXT or "╮•⎚ مـعلومات الـشخص مـن بـوت زدثـون"
+ZED_TEXT = Config.CUSTOM_ALIVE_TEXT or "╮•⎚ مـعلومات الـشخص مـن بوت داركثون"
 ZEDM = Config.CUSTOM_ALIVE_EMOJI or " •❃ "
 
 @bot.on(admin_cmd(pattern="ا(?: |$)(.*)"))
@@ -120,7 +120,7 @@ async def fetch_info(replied_user, event):
     caption += f"\n<b> {ZEDM}| الـمجموعات المشتـركة ⇦ </b> {common_chat} \n"
     caption += f"<b> {ZEDM}| البايـو    ⇦ </b> {user_bio} \n"
     caption += f"<b> ٴ•━─━─━─━─━─━─━─━─━• </b>\n"
-    caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 𝙕𝞝𝘿 𓆪 </b> - @ZedThon "
+    caption += f"<b> 𓆩 𝘚𝘖𝘙𝘜𝘚𝘌 𝘋𝘈𝘙𝘒𝘛𝘏𝘖𝘕 𓆪 </b> - @riothon "
     return photo, caption
 
 
